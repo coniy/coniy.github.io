@@ -10656,7 +10656,7 @@ B.fa.prototype={
 ce:function(){var u=0,t=P.hs([P.c,B.K]),s,r
 var $async$ce=P.hy(function(a,b){if(a===1)return P.hp(b,t)
 while(true)switch(u){case 0:u=3
-return P.es(G.wR("http://10010.com.weixin.cloudns.asia:10010/userlist/"),$async$ce)
+return P.es(G.wR("https://coniy.5sz.net/userlist/"),$async$ce)
 case 3:r=b
 if(r.b===200){s=J.qc(H.xa(C.ah.bk(0,B.wO(U.vR(r.e).c.a.i(0,"charset")).bk(0,r.x))),new B.m8(),B.K).aJ(0)
 u=1
